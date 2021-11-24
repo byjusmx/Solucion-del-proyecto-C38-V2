@@ -127,7 +127,7 @@ function spawnShrubs() {
       default: break;
     }
     
-    //assign scale and lifetime to the shrub           
+    //asginar escala y vida útil al arbusto         
     shrub.scale = 0.05;
      //asignar vida útil a la variable
     shrub.lifetime = 400;
