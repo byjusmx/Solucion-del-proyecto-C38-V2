@@ -92,7 +92,7 @@ function draw() {
     obstaclesGroup.setVelocityXEach(0);
     shrubsGroup.setVelocityXEach(0);
 
-    //cambia la animación del t-rex
+    //cambia la animación del canguro
     kangaroo.changeAnimation("collided",kangaroo_collided);
     
     //establecer la vida útil de los objetos game para que nunca se destruyan
